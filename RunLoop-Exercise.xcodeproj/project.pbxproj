@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9024FC29247F604200DB7859 /* RunloopTimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9024FC28247F604200DB7859 /* RunloopTimerViewController.swift */; };
 		90271C80247E368900012432 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90271C7F247E368900012432 /* AppDelegate.swift */; };
 		90271C82247E368900012432 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90271C81247E368900012432 /* SceneDelegate.swift */; };
 		90271C84247E368900012432 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90271C83247E368900012432 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9024FC28247F604200DB7859 /* RunloopTimerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunloopTimerViewController.swift; sourceTree = "<group>"; };
 		90271C7C247E368900012432 /* RunLoop-Exercise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RunLoop-Exercise.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		90271C7F247E368900012432 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		90271C81247E368900012432 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -48,6 +50,7 @@
 		9024FC25247F5FB400DB7859 /* RunLoop-Timer */ = {
 			isa = PBXGroup;
 			children = (
+				9024FC28247F604200DB7859 /* RunloopTimerViewController.swift */,
 			);
 			path = "RunLoop-Timer";
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9024FC29247F604200DB7859 /* RunloopTimerViewController.swift in Sources */,
 				90271C84247E368900012432 /* ViewController.swift in Sources */,
 				90271C80247E368900012432 /* AppDelegate.swift in Sources */,
 				90271C9B247E536100012432 /* LagMonitorViewController.swift in Sources */,

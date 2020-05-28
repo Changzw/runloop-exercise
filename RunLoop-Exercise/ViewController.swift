@@ -16,6 +16,7 @@ class ViewController: UIViewController {
   let data: [ViewControllerItem] = [
     ("runloop observer", RunLoopDemo0ViewController.self),
     ("Monitor page lag", LagMonitorViewController.self),
+    ("runloop Timer", RunloopTimerViewController.self),
   ]
   
   override func viewDidLoad() {
