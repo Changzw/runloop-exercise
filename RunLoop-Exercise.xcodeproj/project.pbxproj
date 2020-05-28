@@ -45,6 +45,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9024FC25247F5FB400DB7859 /* RunLoop-Timer */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "RunLoop-Timer";
+			sourceTree = "<group>";
+		};
 		90271C73247E368900012432 = {
 			isa = PBXGroup;
 			children = (
@@ -80,6 +87,7 @@
 		90271C97247E519600012432 /* demos */ = {
 			isa = PBXGroup;
 			children = (
+				9024FC25247F5FB400DB7859 /* RunLoop-Timer */,
 				90271C99247E533500012432 /* RunLoop-Lag-Monitor */,
 				90271C98247E51AA00012432 /* RunLoop-Idle */,
 			);
